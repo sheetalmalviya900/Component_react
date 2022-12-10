@@ -1,0 +1,20 @@
+#Side{
+    width: 18vw;
+    height: 90vh;
+    border: 2px solid black;
+    margin-top: -60px;
+    background-color: rgb(27, 22, 22);
+}
+h3{
+    color: white;
+    margin-left: 2vw;
+    margin-top: 4vh;
+}
+h4{
+    color: white;
+    margin-left: 7vw;
+    font-size: 0.9vw;
+}
+#gr{
+    background-color: white;
+}

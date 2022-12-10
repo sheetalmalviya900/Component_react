@@ -1,0 +1,85 @@
+#Body{
+    /* border: 2px solid purple; */
+    margin-left: 18.2vw;
+    width: 41.7vw;
+    height: 82.2vh;
+    margin-top: -82.8vh;
+}
+span{
+    color: red;
+}
+#div1{
+    margin-left: 1vw;
+    margin-top: 6vh;
+}
+#hr1{
+    width: 16vw;
+    height: 0.2vh;
+    margin-left: -0vw;
+    margin-top: -0.9vh;
+    background-color:  rgb(90, 194, 243);
+}
+#p1{
+    font-size: 1.1vw;
+}
+#div2{
+    margin-left: 1vw;
+    margin-top: 5vh;
+}
+h2{
+    color: rgb(90, 194, 243);
+}
+table{
+    margin-top: -2vh;
+    width: 40vw;
+    border: 0.1px solid rgb(229, 219, 219);
+    /* background-color: rgb(229, 219, 219); */
+}
+td{
+    /* border: 0.1px solid rgb(229, 219, 219); */
+    padding: 0%;
+    /* background-color: white; */
+}
+#add{
+    margin-left: 34vw;
+    margin-top: 3vh;
+    width: 7vw;
+    height: 4vh;
+    border-radius: 4px;
+    background-color: rgb(90, 194, 243);
+    color: white;
+    border: white;
+}
+#update{
+    margin-left: 15vw;
+    width: 8vw;
+    height: 5vh;
+    border-radius: 8px;
+    background-color: rgb(90, 194, 243);
+    color: white;
+    border: white;
+}
+#cancel{
+    margin-left: 0.1vw;
+    width: 8vw;
+    height: 5vh;
+    margin-top: 4vh;
+    border-radius: 8px;
+    background-color: rgb(209, 206, 206);
+    color: black;
+    border: white;
+}
+#hr2{
+    width: 6vw;
+    margin-left: 0.2vw;
+    background-color: rgb(90, 194, 243);
+}
+#hr3{
+    width: 15vw;
+    margin-left: 0.2vw;
+    background-color: rgb(90, 194, 243);
+}
+#hr4{
+    width: 15vw;
+    margin-left: 0.2vw;
+}

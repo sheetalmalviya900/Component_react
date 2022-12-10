@@ -1,0 +1,9 @@
+#maindiv{
+  width: 60vw;
+  height: 90vh;
+  border: 15px solid black;
+  margin: auto;
+  margin-top: 4vh;
+  border-radius: 8px;
+  box-shadow: 4px 4px 4px 4px gray;
+}
